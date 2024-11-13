@@ -1,0 +1,19 @@
+{
+  "name": "node_start",
+  "version": "1.0.0",
+  "description": "A little wikipedia about native node and js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Vladislav.Boiko@ivkhk.ee",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
